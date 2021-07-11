@@ -69,7 +69,7 @@ class MultiPlayers extends Phaser.Scene {
                 top: 5,
                 bottom: 5,
             },
-            fixedWidth: 200
+            fixedWidth: 190
             
         }
         this.scoreLeft = this.add.text(borderUISize + borderPadding, borderUISize + borderPadding*2, this.p1Score, scoreConfig);
