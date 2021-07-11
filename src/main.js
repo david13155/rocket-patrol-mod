@@ -26,7 +26,7 @@ let keyF, keyR, keyA, keyD, keyLEFT, keyRIGHT, keyDOWN, keySPACE;
   Implement a simultaneous two-player mode (30)
   Redesign the game's artwork, UI, and sound to change its theme/aesthetic (to something other than sci-fi) (60)*/
 
-/* All Assests I used in my project are all free online.
+/* All Assets I used in my project are all free online.
   Pixel Bird 1:http://pixelartmaker.com/art/39782b73aef24af
   Pixel Bird 2:https://ma9ici4n.itch.io/pixel-art-bird-16x16
   Background: https://jesse-m.itch.io/jungle-pack
