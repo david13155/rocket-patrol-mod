@@ -1,1 +1,1 @@
-To play: https://github.io/david13155/rocket-patrol-mod
+To play: https://david13155.github.io/rocket-patrol-mod
